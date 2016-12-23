@@ -81,3 +81,6 @@ International Morse code is composed of five elements:
 The GUI provides entry fields for input and the corresponding output is presented
 is given dynamically in the output fields.
 The output in the output fields can be copied from there and can be used at other places.
+
+
+![GUI window](morse_img.png)
